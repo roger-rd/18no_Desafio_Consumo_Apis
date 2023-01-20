@@ -1,0 +1,27 @@
+body {
+  background-image: url("../public/bar.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h3{
+  color: rgb(59, 169, 74);
+}
+
+.rounded-5{
+  display: flex;
+    width: 250px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.titleCoctel{
+  text-align: center;
+  color: rgb(59, 169, 74);
+  
+}
+
+
+
